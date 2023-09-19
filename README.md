@@ -43,7 +43,9 @@ else:
   print("I hope to visit "+ user_location + " someday!")
 ```
 
-Make note of where the backtick button is located
+Make note of where the backtick button is located.
+It should appear above the tab key, but it may vary based on your keyboard.
+
 <img width="200px" src="https://github.com/LadyNeesh/github-docs-example2/assets/145222779/7af97774-aa8c-42a0-98ce-7d8f8dc3ac8c" />
  
 
