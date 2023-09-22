@@ -58,3 +58,7 @@ rescue => e
 end 
 ```
 >Here is an example of using a codeblock for an error that appears in bash.
+
+## References
+ - [Github Flavored Markdown (GFM) Spec](https://github.github.com/gfm/)
+ - [Basic Syntax for GFM](https://docs.github.com/en/get-started/writing-on-github/getting-startedwith-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
