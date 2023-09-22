@@ -50,8 +50,6 @@ It should appear above the tab key, but it may vary based on your keyboard.
 
 Good Cloud Engineers use codeblocks for both code and errors that appear in the console.
 
-Here is an example of using a codeblock for an error that appears in bash.
-
 ```bash
 begin
   raise StandardError, "An example error" 
@@ -59,3 +57,4 @@ rescue => e
   puts e  
 end 
 ```
+>Here is an example of using a codeblock for an error that appears in bash.
